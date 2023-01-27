@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\refint\PrimeiroExercicio.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\ref\PrimeiroExercicio.dll

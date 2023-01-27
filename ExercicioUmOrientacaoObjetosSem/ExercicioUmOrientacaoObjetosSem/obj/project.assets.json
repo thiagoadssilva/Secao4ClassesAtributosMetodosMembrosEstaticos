@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CMTech\\.nuget\\packages\\": {},
+    "C:\\Users\\thiag\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CMTech\\Documents\\Thiago\\ProjetosCS\\Secao4ClassesAtributosMetodosMembrosEstaticos\\ExercicioUmOrientacaoObjetosSem\\ExercicioUmOrientacaoObjetosSem\\ExercicioUmOrientacaoObjetosSem.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Documentos\\ProjetosGit\\Secao4ClassesAtributosMetodosMembrosEstaticos\\ExercicioUmOrientacaoObjetosSem\\ExercicioUmOrientacaoObjetosSem\\ExercicioUmOrientacaoObjetosSem.csproj",
       "projectName": "ExercicioUmOrientacaoObjetosSem",
-      "projectPath": "C:\\Users\\CMTech\\Documents\\Thiago\\ProjetosCS\\Secao4ClassesAtributosMetodosMembrosEstaticos\\ExercicioUmOrientacaoObjetosSem\\ExercicioUmOrientacaoObjetosSem\\ExercicioUmOrientacaoObjetosSem.csproj",
-      "packagesPath": "C:\\Users\\CMTech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CMTech\\Documents\\Thiago\\ProjetosCS\\Secao4ClassesAtributosMetodosMembrosEstaticos\\ExercicioUmOrientacaoObjetosSem\\ExercicioUmOrientacaoObjetosSem\\obj\\",
+      "projectPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\ProjetosGit\\Secao4ClassesAtributosMetodosMembrosEstaticos\\ExercicioUmOrientacaoObjetosSem\\ExercicioUmOrientacaoObjetosSem\\ExercicioUmOrientacaoObjetosSem.csproj",
+      "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\ProjetosGit\\Secao4ClassesAtributosMetodosMembrosEstaticos\\ExercicioUmOrientacaoObjetosSem\\ExercicioUmOrientacaoObjetosSem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\CMTech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

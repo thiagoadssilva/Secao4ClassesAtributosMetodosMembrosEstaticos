@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\bin\Debug\net6.0\SegundoExercicio.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\bin\Debug\net6.0\SegundoExercicio.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\bin\Debug\net6.0\SegundoExercicio.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\bin\Debug\net6.0\SegundoExercicio.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\bin\Debug\net6.0\SegundoExercicio.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\refint\SegundoExercicio.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao4ClassesAtributosMetodosMembrosEstaticos\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\ref\SegundoExercicio.dll
